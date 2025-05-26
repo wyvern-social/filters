@@ -1,7 +1,8 @@
 admin
 moderator
 support
-Staff
+staff
 system
 owner
 help
+moderator
