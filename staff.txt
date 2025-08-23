@@ -4,3 +4,5 @@ support
 staff
 system
 owner
+admin
+wyvern
