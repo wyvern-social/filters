@@ -4,4 +4,3 @@ support
 staff
 system
 owner
-admin
